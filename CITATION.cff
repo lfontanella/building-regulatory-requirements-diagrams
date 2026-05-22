@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+title: "Building Regulatory Requirements Diagrams"
+message: "If you use this repository, please cite it as below."
+type: dataset
+
+authors:
+  - family-names: Fontanella
+    given-names: Luca
+    email: luca.fontanella@gmail.com
+    affiliation: "Università Iuav di Venezia"
+
+repository-code: "https://github.com/lfontanella/building-regulatory-requirements-diagrams"
+
+abstract: >
+  Visual diagrams and BPMN-style workflows for the interpretation and
+  structuring of selected building regulatory requirements in BIM/openBIM
+  workflows. The repository includes diagrams related to CAM requirements and
+  to the Italian D.M. 26 giugno 2015 on minimum building energy performance
+  requirements, developed as part of a PhD research project on BIM, HBIM,
+  openBIM and building performance analysis.
+
+keywords:
+  - BIM
+  - openBIM
+  - HBIM
+  - regulatory requirements
+  - information requirements
+  - building performance
+  - energy performance
+  - thermal performance
+  - BPMN
+  - workflow diagrams
+  - CAM
+  - DM 26 giugno 2015
+  - IDS
+  - IFC
+  - research documentation
+
+license: MIT
+version: "1.0.0"
+date-released: "2026-05-20"
+
+preferred-citation:
+  type: thesis
+  title: "Utilizzo della metodologia BIM (Building Information Modeling) e degli standard openBIM per le analisi e il monitoraggio delle prestazioni termiche di edifici storici"
+  authors:
+    - family-names: Fontanella
+      given-names: Luca
+  institution:
+    name: "Università Iuav di Venezia"
+  year: 2026
